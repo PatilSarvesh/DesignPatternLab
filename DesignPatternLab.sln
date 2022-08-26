@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoNumbers", "SumOfTwoNumbers\SumOfTwoNumbers.csproj", "{782A87F3-D9D8-4B54-B365-1B7F8C390B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{782A87F3-D9D8-4B54-B365-1B7F8C390B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782A87F3-D9D8-4B54-B365-1B7F8C390B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782A87F3-D9D8-4B54-B365-1B7F8C390B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782A87F3-D9D8-4B54-B365-1B7F8C390B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC31B616-BE1B-4CE2-BAE6-0DAE32D2FA3E}
+	EndGlobalSection
+EndGlobal
